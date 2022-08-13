@@ -1,15 +1,15 @@
 **PRIVACY NOTICE**
 
-**Last updated February 08, 2022**
+**Last updated  August 13, 2022**
   
 
-Thank you for choosing to be part of our community at Global Bazzar United ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at deuxbazzar@gmail.com.
+Thank you for choosing to be part of our community at Global African Development ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at takeit-cd@gmail.com
 
   
 
 This privacy notice describes how we might use your information if you:
 
-*   Download and use our mobile application — 2ème Bazzar
+*   Download and use our mobile application — TakeIt
 
 *   Engage with us in other related ways ― including any sales, marketing, or events
 
@@ -413,11 +413,11 @@ We may update this privacy notice from time to time. The updated version will be
 
   
 
-If you have questions or comments about this notice, you may email us at deuxbazzar@gmail.com or by post to:
+If you have questions or comments about this notice, you may email us at takeit-cd@gmail.com or by post to:
 
   
 
-Global Bazzar United
+Global African Development
 
 12c, Av. Kimpwanza, Q. Djelo-Binza, C. Ngaliema
 
@@ -431,6 +431,6 @@ Democratic Republic of the Congo
 
   
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please visit: [http://www.deuxbazzar.com/user/data](http://www.deuxbazzar.com/user/data).
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please visit: [http://www.takeit-cd.com/user/data](http://www.takeit-cd.com/user/data).
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator).
